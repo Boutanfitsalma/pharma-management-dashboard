@@ -1,5 +1,8 @@
 # 🏥 Hospital Pharmaceutical Management Dashboard
 
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/)
+
 ## 📋 Project Overview
 Strategic dashboard developed for CHU Mohammed VI Oujda's pharmacy 
 department to optimize medication management and decision-making.
@@ -19,14 +22,14 @@ department to optimize medication management and decision-making.
 ## 📊 Dashboard Features
 
 ### Strategic Overview
-![Strategic Dashboard](Strategic Overview.png)
+![Strategic Dashboard](StrategicOverview.png)
 - Stock rotation rate monitoring
 - Order cancellation tracking
 - Service consumption analysis
 - Active ingredient distribution
 
 ### Service Monitoring
-![Service Tracking](Service Tracking.png)
+![Service Tracking](ServiceTracking.png)
 - Cost distribution by service
 - Quantity ordered per service
 - Expiration date tracking
